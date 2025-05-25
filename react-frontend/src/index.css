@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.global{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-size: medium;
+}

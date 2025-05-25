@@ -60,6 +60,8 @@ OR
 yarn add secure-fetch-sdk
 ```
 
+**Clone this repo and test it locally**
+
 ## Usage - Backend (Node.JS)
 
 Usage of middleware in node.js express API:

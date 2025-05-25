@@ -23,7 +23,7 @@ Secure Fetch SDK helps frontend applications send encrypted requests by:
 
 ---
 
-<video src="media/secure-fetch-video.mp4" controls></video>
+<video src="/media/secure-fetch-video.mp4" controls></video>
 
 ## Features
 
